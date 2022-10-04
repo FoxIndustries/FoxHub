@@ -10,3 +10,14 @@
 # Contacts:
 - Discord: FoxDevloper#9096
 - Discord Server: No invite yet :(
+
+# ⚪ (Circle) Tags:
+
+**Main Tags**
+- 🟢 | Not detected, everything is normal/updated
+- 🟡 | Possibly detected, or some features are patched.
+- 🔴 | Detected (Patched)
+
+**Others Tags**
+- 🟠 | Recently updated, there may be problems while using
+- ⚫ | End of script support, the unobfuscated version will be put to a person who wants to and want to revive it
