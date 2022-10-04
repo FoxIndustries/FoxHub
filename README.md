@@ -1,5 +1,5 @@
 # 👋 FoxHub
-- 🎮 New games support comming soon!
+- 🎮 New games support coming soon!
 
 # Script:
 📜 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()```
