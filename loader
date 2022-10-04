@@ -5,7 +5,7 @@ local wtfyouredoingreadingthis = game.PlaceId
 if wtfyouredoingreadingthis == 7235547883 then -- EB Tevez
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/Games/Tevez.lua", true))()
 	else
-	
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/Games/Universal.lua", true))()
 end
 
 
