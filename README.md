@@ -1,6 +1,6 @@
 <h1 align="center">👋 FoxHub</h1><p align="center">🎮 New games support coming soon!</p>
 
-## 📜 Script:
+<h2 align="center">📜 Script:</h2>
 - ```loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()```
 
 # 🎮 Supported Games:
