@@ -1,7 +1,11 @@
 <h1 align="center">👋 FoxHub</h1><p align="center">🎮 New games support coming soon!</p>
 
 <h2 align="center">📜 Script:</h2><p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()</p>
-<p align="left"><p style="color:Grey;">Ramires te amo </p></p>
+
+<body style="background-color:black;">
+<style="font-size:10px;">
+<p>Ramires te amo</p>
+</body>
 
 # 🎮 Supported Games:
 - 🟡 | [[MEGA UPDATE] Brazilian Army "BA"](https://www.roblox.com/games/7235547883/BIG-UPDATE-Ex-rcito-Brasileiro-EB#!/about) (Damn hyperlink is so op)
