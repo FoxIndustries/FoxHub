@@ -1,6 +1,6 @@
 <h1 align="center">~^*👋 | Welcome to: FoxHub*^~</h1><p align="center">🎮 New games support coming soon!</p>
 
-<h2 align="center">📜 Script:</h2><p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()</p>
+<h2 align="center">📜 Script:</h2><p align="center">`loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader"`, true))()</p>
 
 ###### ~~*ramires é furry*~~
 
