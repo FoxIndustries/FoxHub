@@ -1,6 +1,6 @@
 <h1 align="center">👋 FoxHub</h1><p align="center">🎮 New games support coming soon!</p>
 
-<h2 align="center">📜 Script:</h2><p align="center">```loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()```</p>
+<h2 align="center">📜 Script:</h2><p align="center">`loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()`</p>
 
 # 🎮 Supported Games:
 - 🟡 | [[MEGA UPDATE] Brazilian Army "BA"](https://www.roblox.com/games/7235547883/BIG-UPDATE-Ex-rcito-Brasileiro-EB#!/about) (Damn hyperlink is so op)
