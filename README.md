@@ -1,4 +1,4 @@
-# 👋 FoxHub
+### <h1 align="center">👋 FoxHub</h1>
 - 🎮 New games support coming soon!
 
 # 📜 Script:
