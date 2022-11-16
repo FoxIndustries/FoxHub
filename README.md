@@ -2,7 +2,16 @@
 
 <h2 align="center">📜 Script:</h2><p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/FoxIndustries/FoxHub/main/loader", true))()</p>
 
-<p style="font-size:10px;"> >te love ramires</p>
+<html>
+<body>
+
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
+</body>
+</html>
 
 # 🎮 Supported Games:
 - 🟡 | [[MEGA UPDATE] Brazilian Army "BA"](https://www.roblox.com/games/7235547883/BIG-UPDATE-Ex-rcito-Brasileiro-EB#!/about) (Damn hyperlink is so op)
