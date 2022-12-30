@@ -5,10 +5,10 @@
 ###### ~~*ramires é furry*~~
 
 # **🎮 Supported Games:**
-- 🟡 | [[MEGA UPDATE] Brazilian Army "BA"](https://www.roblox.com/games/7235547883/BIG-UPDATE-Ex-rcito-Brasileiro-EB#!/about) (Damn hyperlink is so op)
+- 🔴 | [[MEGA UPDATE] Brazilian Army "BA"](https://www.roblox.com/games/7235547883/BIG-UPDATE-Ex-rcito-Brasileiro-EB#!/about) (Damn hyperlink is so op)
 
 ### Contacts:
-- Discord: FoxDevloper#9096
+- Discord: Account Banned.
 - Discord Server: *No invite yet :(*
 
 ### ⚪ (Circle) Tags:
